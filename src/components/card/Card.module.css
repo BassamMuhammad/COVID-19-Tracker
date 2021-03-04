@@ -1,0 +1,19 @@
+.container {
+  margin: 0 auto;
+  display: flex;
+}
+
+.infected {
+  border-bottom: 10px solid blue;
+  margin: 5px 5px;
+}
+
+.deaths {
+  border-bottom: 10px solid red;
+  margin: 5px 5px;
+}
+
+.recovered {
+  border-bottom: 10px solid green;
+  margin: 5px 5px;
+}
